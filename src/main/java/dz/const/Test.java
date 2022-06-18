@@ -3,6 +3,8 @@
 public class Test{
     public static void main  (String[] args){
         /**jjjhhhvjvjj */
-        System.out.println("Hello");
+
+        String message="bonjour";
+        System.out.println(message);
     }
 }
